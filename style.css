@@ -1,0 +1,53 @@
+/*box 1*/
+
+.red {
+  background-color: red;
+  width: 400px;
+  height: 400px;
+}
+
+.purple {
+  background-color: purple;
+  width: 200px;
+  height: 200px;
+  position: relative;  
+  left: 100px;
+  bottom: 300px; 
+}
+
+.yellow {
+  background-color: yellow;
+  width: 100px;
+  height: 100px;
+  position: relative;
+  left: 100px;
+  bottom: 500px;
+}
+
+/*box 2*/
+
+.blue {
+  background-color: blue;
+  width: 400px;
+  height: 400px;
+  position: relative;
+  bottom: 270px;  
+}
+
+.black {
+  background-color: black;
+  width: 100px;
+  height: 100px;
+  position: relative;
+  bottom: 870px;
+}
+
+.green {
+  background-color: green;
+  width: 200px;
+  height: 200px;
+  position: relative;
+  left: 100px;
+  bottom: 570px;
+}
+
